@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Darling/Honey",
+    valentineName: "Darling,Honey",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -59,7 +59,7 @@ const CONFIG = {
     colors: {
         backgroundStart: "#BEE5BF",      // Gradient start (try pastel colors for a soft look)
         backgroundEnd: "#CE7DA5",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#FFD1BA",     // Button color (should stand out against the background)
+        buttonBackground: "#DA4167",     // Button color (should stand out against the background)
         buttonHover: "#DFF3E3",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"             // Text color (make sure it's readable!)
     },
